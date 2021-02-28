@@ -24,5 +24,5 @@ To run the app, just execute _index.py_
 - app.py: Server and stylesheet configuration
 - index.py: Layout and callback
 - constants.py: Constants definition
-- components.py: Components definition (there are only 5 componentes, so i put them all in one file, if this app grows, i will create a componente folder)
+- components.py: Components definition
 - utils.py: Data preparation
