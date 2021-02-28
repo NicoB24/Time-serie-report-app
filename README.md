@@ -26,3 +26,5 @@ To run the app, just execute _index.py_
 - constants.py: Constants definition
 - components.py: Components definition
 - utils.py: Data preparation
+
+If the app grows, constants, components and utils will be folders, and into them separately files.
