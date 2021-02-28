@@ -11,3 +11,5 @@ _Install the libraries running this:_
 pip3 install -r requirements.txt
 ```
 
+## Run 🚀
+To run  the app, just execute _index.py_
