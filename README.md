@@ -5,7 +5,7 @@
 
 ## Version 📌
 
-_Python version: Python 3.7.2_
+Python version: Python 3.7.2
 
 ## Installation 📋
 
