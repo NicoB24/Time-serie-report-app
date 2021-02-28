@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 To run the app, just execute _index.py_
 
 ## Documentation 📋
-- app.py: Server and stylesheets configuration
+- app.py: Server and stylesheet configuration
 - index.py: Layout and callback
 - constants.py: Constants definition
 - components.py: Components definition (there are only 5 componentes, so i put them all in one file, if this app grows, i will create a componente folder)
