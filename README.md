@@ -9,7 +9,7 @@ If you dont want to download this repository, you can just watch a [preview](htt
 
 Python version: Python 3.7.2
 
-## Installation 📋
+## Installation ⚙️
 
 _Install the libraries running this:_
 
@@ -19,3 +19,10 @@ pip3 install -r requirements.txt
 
 ## Run 🚀
 To run the app, just execute _index.py_
+
+## Documentation 📋
+- app.py: Server and stylesheets configuration
+- index.py: Layout and callback
+- constants.py: Constants definition
+- components.py: Components definition (there are only 5 componentes, so i put them all in one file, if this app grows, i will create a componente folder)
+- utils.py: Data preparation
